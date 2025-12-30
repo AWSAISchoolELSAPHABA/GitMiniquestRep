@@ -1,1 +1,3 @@
 test message
+자격증: OPIC IH, JLPT N2, 정보처리기사?
+사용기술: C, Python
